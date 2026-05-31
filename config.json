@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessioneender",
+        "uuid": 4767285,
+        "checksum": "wtj3ek"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
